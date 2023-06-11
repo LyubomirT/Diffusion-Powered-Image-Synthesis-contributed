@@ -1,1 +1,1 @@
-# Image Generation using Simple Diffusion Models
+# Image Generation Using Diffusion Procedures
