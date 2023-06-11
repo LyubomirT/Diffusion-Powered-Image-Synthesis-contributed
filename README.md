@@ -19,5 +19,5 @@ The model underwent an extensive training process for a duration of 48 hours, le
 </p>
 
 <p float="left" align="middle">
-  <img src="https://cdn.discordapp.com/attachments/911296727103983678/1117573202458198087/Yxtz20oOAAAAABJRU5ErkJggg.png" width="90%" hspace="10"/>
+  <img src="https://cdn.discordapp.com/attachments/911296727103983678/1117573202458198087/Yxtz20oOAAAAABJRU5ErkJggg.png" width="100%" hspace="0"/>
 </p>
