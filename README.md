@@ -8,7 +8,7 @@ The model underwent an extensive training process for a duration of 48 hours, le
 <h2 align="center"></h1>
 
 <p float="left" align="middle">
-  <img src="https://media.discordapp.net/attachments/911296727103983678/1117571962160545863/d0857be2-9f10-419f-884e-f60aed8d8ae1.png" width="30%" hspace="20"/>
+  <img src="https://media.discordapp.net/attachments/911296727103983678/1117571962160545863/d0857be2-9f10-419f-884e-f60aed8d8ae1.png" width="30%" hspace="10"/>
   <img src="https://media.discordapp.net/attachments/911296727103983678/1117571962798100631/TESTE_1.png" width="30%" hspace="10"/> 
   <img src="https://media.discordapp.net/attachments/911296727103983678/1117571963578241064/7_1.png" width="30%" hspace="10"/> 
 </p>
