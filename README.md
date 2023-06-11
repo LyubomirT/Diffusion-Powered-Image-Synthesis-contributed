@@ -1,1 +1,1 @@
-# Image Generation Using Diffusion Procedures
+# Diffusion based Image Synthesis: Human Faces
