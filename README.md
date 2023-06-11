@@ -1,1 +1,1 @@
-# Diffusion-Faces
+# Image Generation using Simple Diffusion Models
