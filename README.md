@@ -1,4 +1,4 @@
-# Diffusion based Image Synthesis: Human Faces
+# Image Synthesis: Human Faces
 
 This repository presents a comprehensive demonstration of a Denoising Diffusion Probabilistic Model. The model is trained using a standard L1 loss metric between timesteps and exhibits the ability to generate high-resolution 256x256 images of human faces. Each image generation process requires an approximate duration of 4 seconds when utilizing the standard free Google Colaboratory hardware. The model execution is supported by a memory footprint of approximately 2 GB of VRAM.
 
