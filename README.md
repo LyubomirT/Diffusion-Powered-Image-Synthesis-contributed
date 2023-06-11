@@ -18,6 +18,11 @@ The model underwent an extensive training process for a duration of 48 hours, le
   <img src="https://media.discordapp.net/attachments/911296727103983678/1117571963364319363/7c39058b-044a-4406-a448-b62df64b3a40.png" width="30%" hspace="10"/> 
 </p>
 
+<h2 align="center"></h1>
+
 <p float="left" align="middle">
   <img src="https://cdn.discordapp.com/attachments/911296727103983678/1117573202458198087/Yxtz20oOAAAAABJRU5ErkJggg.png" width="100%" hspace="10"/>
+</p>
+<p float="left" align="middle">
+  <img src="https://cdn.discordapp.com/attachments/911296727103983678/1117573776037650432/B1ZGJnpSYqHjAAAAAElFTkSuQmCC.png" width="100%" hspace="10"/>
 </p>
